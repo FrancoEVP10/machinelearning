@@ -1,4 +1,4 @@
-# Repositorio del Curso [Machine Learning de A a la Z: R y Python para Data Science](https://cursos.frogamesformacion.com/courses/machine-learning-az)
+# Repositorio del Curso Machine Learning de A a la Z: R y Python para Data Science
 ## Creado por [Kirill Eremenko](https://www.udemy.com/user/kirilleremenko/) y [Hadelin de Ponteves](https://www.udemy.com/user/hadelin-de-ponteves/)
 ## Traducido al español por [Juan Gabriel Gomila Salas](https://www.udemy.com/user/juangabriel2)
 
@@ -37,8 +37,6 @@ Este curso es divertido y ameno pero al mismo tiempo todo un reto pues tenemos m
 Además, el curso está repleto de ejercicios prácticos basados en ejemplos de la vida real, de modo que no solo aprenderás teoría, si no también pondrás en práctica tus propios modelos con ejemplos guiados.
 
 Y como bonus, este curso incluye todo el código en Python y R para que lo descargues y uses en tus propios proyectos.
-
-Puedes apuntarte al curso de Machine Learning de la A a la Z con descuento [desde aquí](https://cursos.frogamesformacion.com/courses/machine-learning-az)
 
 ### Lo que aprenderás
 
